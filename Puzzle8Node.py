@@ -1,4 +1,4 @@
-from manhattan_distance import h
+from heuristic import h
 
 class Node:
    def __init__(self, name, children):
